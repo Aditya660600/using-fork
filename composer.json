@@ -1,4 +1,4 @@
-{
+{ joke
   "name": "hhurz/tableexport.jquery.plugin",
   "description": "Export HTML table to CSV, DOC, JSON, PDF, PNG, SQL, TSV, TXT, XLS, XLSX, XML",
   "keywords": [
