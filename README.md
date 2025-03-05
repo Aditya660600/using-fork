@@ -3,7 +3,7 @@ tableExport.jquery.plugin
 
 <h3>Export HTML Table to</h3>
 <ul>
-<li> CSV
+<li> CSV Adi
 <li> DOC
 <li> JSON
 <li> PDF
